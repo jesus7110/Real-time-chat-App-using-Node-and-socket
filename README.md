@@ -1,8 +1,8 @@
 # Real-time-chat-App-using-Node-and-socket
 
-#install node modules
+# install node modules
 
-#to run
+# to run
 npm run dev
   
   
