@@ -1,0 +1,12 @@
+ steps :
+ //  #1 : Create NPOM project
+ //  #2 : Create Index, Css, JS files
+ //  #3 : Install dependencies, express, nodemo  (dev dep.)
+   #4 : Create a express server (server.js)
+   #5 : do frontend part
+   #6 : Install socket.io, Setup socket.io in server.js and clients client.js
+   #7 : Client sdend messages logics in client.js
+   #8 : Recieve message on server and broad ast to all clients
+   #9 : 
+   #10 :
+   #11 :
